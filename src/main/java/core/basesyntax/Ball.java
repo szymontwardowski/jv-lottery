@@ -11,8 +11,7 @@ public Ball(String color, int number) {
 }
 @Override
 public String toString() {
-    return "Ball{color = '" + Colour
-            + "', number =" + number + "}";
+    return "Ball{color = '" + Colour + "', number = " + number + "}";
 }
 }
 
